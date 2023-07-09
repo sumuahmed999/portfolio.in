@@ -11587,6 +11587,11 @@ pre .code {
   background: #fcbec6;
 }
 
+#hirebg{
+  background:url(imgs/hrbg.jpg);
+  background-size: 100%;
+   background-size: auto;
+}
 .section {
   padding: 80px 0;
 }
