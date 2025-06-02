@@ -11592,7 +11592,7 @@ pre .code {
 #hirebg{
   background:url(imgs/hrbg.jpg);
   background-size: 100%;
-   background-size: auto;
+  background-repeat: no-repeat;
 }
 .section {
   padding: 80px 0;
