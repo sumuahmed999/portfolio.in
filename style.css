@@ -11591,7 +11591,7 @@ pre .code {
 
 #hirebg{
   background:url(imgs/hrbg.jpg);
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 .section {
